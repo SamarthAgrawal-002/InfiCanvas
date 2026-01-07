@@ -1,0 +1,5 @@
+{
+  "name": "Infinite Canvas - PinBoard Pro",
+  "description": "A high-performance digital board for organizing ideas with pins, images, and lists. Supports zoom, pan, undo/redo, snapshots, and persistent storage.",
+  "requestFramePermissions": []
+}
